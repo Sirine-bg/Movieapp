@@ -1,0 +1,20 @@
+.search-container {
+    margin: 40px 0px;
+    display: flex;
+    justify-content: center;
+  }
+  .search-container input {
+    width: 60%;
+    border-radius: 25px;
+    border: 1px solid lightgray;
+    color: rgb(211, 91, 91);
+    padding: 8px 0 8px 10px;
+    margin-right: 10px;
+  }
+  .search-container input:focus {
+    outline: 0;
+  }
+  .search{
+    color: antiquewhite;
+    margin-top: 100px;
+  }
